@@ -1,4 +1,5 @@
 import re 
+import os
 
 
 def passport(file):
@@ -97,5 +98,5 @@ def passport(file):
 
 
 if __name__ == "__main__":
-    file = open("input", "r")
+    file = open(os.path.dirname(__file__) + "\input", "r")
     passport(file)
