@@ -4,4 +4,4 @@ adventofcode.com
 Day 1 - and 2 were done in excel and are not here  
 Day 3 - is ok  
 Day 4 - is complete garbage  
-Day 5 - I like   
+Day 5 - I like - day after wisdom, it is a little over thought although not bad
