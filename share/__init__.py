@@ -3,7 +3,7 @@ import os
 def readData(parentfile: str, data: str) -> object:
     sampleFile = os.path.dirname(parentfile) + "\\" + data
     with open(sampleFile, 'r') as fileIn:
-        outfile = fileIn.read().split("\n\n")
+        outfile = fileIn.read().split("\n")
     return outfile
 
 
